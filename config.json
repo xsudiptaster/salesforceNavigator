@@ -1,0 +1,63 @@
+{
+  "Login": [
+    {
+      "instanceUrl": "https://sulzer--uat.sandbox.my.salesforce.com",
+      "instance": "https://test.salesforce.com",
+      "accessToken": "00D9O0000057mQ1!AQEAQDOlsMU_w6Nzcm4jBHYcrijkrIs_XLKD17j150a_PG07LYIeXKdtDxlwZz8GACKEWNhImUNoXiKv3IUvRJhTho1ci..K",
+      "username": "sudipta.karmakar@sulzer.com.uat",
+      "password": "Rockcity_123",
+      "picture": "https://sulzer--uat.sandbox.file.force.com/profilephoto/005/F",
+      "email": "sudipta.karmakar@sulzer.com",
+      "displayName": "Sudipta Karmakar",
+      "success": true
+    },
+    {
+      "instanceUrl": "https://sulzer.my.salesforce.com",
+      "instance": "https://login.salesforce.com",
+      "accessToken": "00D1t000000xSRS!AQEAQI2pdyNrDYM5Sza_6QpdDylivY4j7G8QmNPQcy8hVNCfgbm3zBFb3cjuODOn09IOEO7QNIWi_scU9uG_HBhTLlAyrbxq",
+      "username": "sudipta.karmakar@sulzer.com",
+      "password": "Rockcity_123",
+      "picture": "https://sulzer.file.force.com/profilephoto/7291t0000004Zhg/F",
+      "email": "sudipta.karmakar@sulzer.com",
+      "displayName": "Sudipta Karmakar",
+      "success": true
+    },
+    {
+      "instanceUrl": "https://sulzer--devenv.sandbox.my.salesforce.com",
+      "instance": "https://test.salesforce.com",
+      "accessToken": "00D7E000000AlR9!AQEAQLgMLE3MePe8rUzjM0yStmctrde7az1F5ZBu9oWvc_w6wF_zVQF7bXa5rn.XyukkYycT.b7IHdLFZpdr3.JKo3RUkVS2",
+      "username": "sudipta.karmakar@sulzer.com.devenv",
+      "password": "Rockcity_123",
+      "picture": "https://sulzer--devenv.sandbox.file.force.com/profilephoto/005/F",
+      "email": "sudipta.karmakar@sulzer.com",
+      "displayName": "Sudipta Karmakar",
+      "success": true,
+      "expiryDate": "2024-11-15T14:14:08.675Z"
+    }
+  ],
+  "Tabs": [
+    {
+      "instanceUrl": "https://sulzer.my.salesforce.com",
+      "instance": "https://login.salesforce.com",
+      "accessToken": "00D1t000000xSRS!AQEAQI2pdyNrDYM5Sza_6QpdDylivY4j7G8QmNPQcy8hVNCfgbm3zBFb3cjuODOn09IOEO7QNIWi_scU9uG_HBhTLlAyrbxq",
+      "username": "sudipta.karmakar@sulzer.com",
+      "password": "Rockcity_123",
+      "picture": "https://sulzer.file.force.com/profilephoto/7291t0000004Zhg/F",
+      "email": "sudipta.karmakar@sulzer.com",
+      "displayName": "Sudipta Karmakar",
+      "success": true
+    },
+    {
+      "instanceUrl": "https://sulzer--devenv.sandbox.my.salesforce.com",
+      "instance": "https://test.salesforce.com",
+      "accessToken": "00D7E000000AlR9!AQEAQLgMLE3MePe8rUzjM0yStmctrde7az1F5ZBu9oWvc_w6wF_zVQF7bXa5rn.XyukkYycT.b7IHdLFZpdr3.JKo3RUkVS2",
+      "username": "sudipta.karmakar@sulzer.com.devenv",
+      "password": "Rockcity_123",
+      "picture": "https://sulzer--devenv.sandbox.file.force.com/profilephoto/005/F",
+      "email": "sudipta.karmakar@sulzer.com",
+      "displayName": "Sudipta Karmakar",
+      "success": true,
+      "expiryDate": "2024-11-15T14:14:08.675Z"
+    }
+  ]
+}

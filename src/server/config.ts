@@ -1,0 +1,6 @@
+export const versionInt = '61.0';
+export const CLIENT_ID =
+  '3MVG98Gq2O8Po4ZmYnoRTxGDloDXoIPHob5.eT6Gz366bODKZL0aEdfWb_UTvD8Q7CforMI3dPJSTTWF2fQFq';
+export const CLIENT_SECRET =
+  '2113ED73574DE8E188E9C51F3CED0FFCDEDC39877B2F1E6B7A28227940419E89';
+export const CALLBACK = 'http://localhost/callback';
